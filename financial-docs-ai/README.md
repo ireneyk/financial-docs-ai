@@ -1,4 +1,4 @@
-# Financial Docs AI 🧠
+# Financial Docs AI 
 **Enterprise-Grade Agentic RAG for SEC Financial Disclosures**
 
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/) [![React + Vite](https://img.shields.io/badge/frontend-React%20%7C%20Vite-61dafb.svg)](https://vitejs.dev/) [![Postgres + pgvector](https://img.shields.io/badge/database-pgvector-336791.svg)](https://github.com/pgvector/pgvector) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
