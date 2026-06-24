@@ -5,7 +5,6 @@
 
 `financial-docs-ai` is a high-throughput, retrieval-augmented generation (RAG) system engineered to extract actionable intelligence from dense financial corpora. By fusing semantic vector search with deterministic full-text filtering, the system allows analysts to query complex SEC filings in natural language while strictly enforcing factual grounding through verifiable, document-backed citations.
 
-Detailed system architecture and design decisions: [docs/project-brief.md](docs/project-brief.md)
 
 ---
 
